@@ -67,3 +67,4 @@ def main():
 if __name__ == "__main__":
     main()
 oipmkol.
+etu6
